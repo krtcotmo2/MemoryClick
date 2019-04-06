@@ -1,5 +1,5 @@
 # Trouble in Westeros
-![alt text](https://img.shields.io/badge/uses-node-brightgreen.svg) ![alt text](https://img.shields.io/badge/uses-React-brightgreen.svg)  ![alt text](https://img.shields.io/badge/uses-bootstrap-blue.svg)
+![alt text](https://img.shields.io/badge/uses-Node-brightgreen.svg) ![alt text](https://img.shields.io/badge/uses-React-brightgreen.svg)  ![alt text](https://img.shields.io/badge/uses-Bootstrap-blue.svg)
 
 This interaction uses React to create an interface for a series of buttons that the user can click on. The objective is to only click each button once before repeating a click. Every time a user clicks on a button, the order of the buttons randomize.
 
