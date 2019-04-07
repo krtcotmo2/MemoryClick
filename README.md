@@ -1,7 +1,7 @@
 # Trouble in Westeros
 ![alt text](https://img.shields.io/badge/uses-Node-brightgreen.svg) ![alt text](https://img.shields.io/badge/uses-React-brightgreen.svg)  ![alt text](https://img.shields.io/badge/uses-Bootstrap-blue.svg)
 
-I followed the steps in Sterlin's post ablut getting the pages on Git hug but I kept getting errors:
+I followed the steps in Sterlin's post about getting the pages on Github but I kept getting errors:
 Cloning into 'node_modules\gh-pages\.cache\git@github.com!krtcotmo2!MemoryClick.git'...
 git@github.com: Permission denied (publickey).
 fatal: Could not read from remote repository.
