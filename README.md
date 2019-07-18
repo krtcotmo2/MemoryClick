@@ -20,6 +20,6 @@ A modal component is used to let the user know if they have made an error or com
 ## States
 The app uses numerous states to help monitor and control items. The current and best scores are stored in the state. The array of banners is stored in the state and is randomized on each guess. An array called chosen cards tracks all cards chosen by the user, a directions showing controls the direction displays, the isOpen variable controls whether the modal is showing and a message variable allows the message of the modal to be customized  
 
-Updated the icon of the application.
+Customized the icon of the application that appears in the browser tab.
 
 [<img src="https://github.com/krtcotmo2/MemoryClick/blob/master/public/images/TroubleInWesteros.png"/>](https://troubleinwesteros.herokuapp.com/)
